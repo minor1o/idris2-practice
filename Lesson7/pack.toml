@@ -1,0 +1,10 @@
+[custom.all.Lesson7]
+type = "local"
+path = "."
+ipkg = "Lesson7.ipkg"
+test = "test/test.ipkg"
+
+[custom.all.Lesson7-test]
+type = "local"
+path = "test"
+ipkg = "test.ipkg"

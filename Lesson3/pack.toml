@@ -1,0 +1,10 @@
+[custom.all.L3]
+type = "local"
+path = "."
+ipkg = "L3.ipkg"
+test = "test/test.ipkg"
+
+[custom.all.L3-test]
+type = "local"
+path = "test"
+ipkg = "test.ipkg"
